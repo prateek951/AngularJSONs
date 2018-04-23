@@ -1,18 +1,4 @@
 {
-	"icons": [
-		 {
-			"icon-link": "https://www.facebook.com/prateek.madaan.73",
-	        "icon-name" : "icon-facebook-1"
-		 },
-	         {
-			"icon-link": "https://www.facebook.com/prateek.madaan.73",
-	        "icon-name" : "icon-facebook-1"
-		 },
-		{
-			"icon-link": "https://www.facebook.com/prateek.madaan.73",
-	    	"icon-name" : "icon-facebook-1"
-		 }
-	]
-
-
+	"icon-link":"https://www.facebook.com/prateek.madaan.73",
+	"icon-name":"icon-facebook-1"
 }
