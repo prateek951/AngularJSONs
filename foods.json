@@ -1,0 +1,15 @@
+
+{
+  "foods": [
+      {
+        "locationUrl": "images/cart-food1.jpg",
+        "name" : "Blanched Garlic",
+        "price" : "35"
+      },
+      {
+        "locationUrl": "images/cart-food2.jpg",
+        "name" : "Green Chilli",
+        "price" : "40"
+      }
+  ]
+}
