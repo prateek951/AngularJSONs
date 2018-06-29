@@ -1,0 +1,12 @@
+{
+  "coupons": [
+      {
+        "couponcode" : "FUCK1234",
+        "discount": "25"
+      },
+      {
+        "couponcode" : "FREE100",
+        "discount": "100"
+      }
+  ]
+}
