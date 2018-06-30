@@ -2,11 +2,13 @@
   "coupons": [
       {
         "couponcode" : "FUCK1234",
-        "discount": "25"
+        "discount": "25",
+        "used" : false
       },
       {
         "couponcode" : "FREE100",
-        "discount": "100"
+        "discount": "100",
+        "used": false
       }
   ]
 }
